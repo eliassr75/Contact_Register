@@ -1,0 +1,14 @@
+Para mais informações:
+
+A ideia é simples:
+
+>> Registrar em um arquivo de texto os contatos dos clientes do crediário da loja;
+>> Contar quantos registros foi feito diariamente;
+>> Contar quantos registros existem desde o dia em que a aplicação foi iniciada pela primeira vez;
+
+Os dados ficam salvos no arquivo de texto "registros"  no 
+arquivo "diario_registros", fica salvo quantos registros foram 
+feitos até o momento que o botão "Fechar Aplicativo" foi acionado;
+
+Elias Emanoel - Estudante de Ciência da Computação; Técnico de Suporte em Tecnologia da Informação;
+(92) 9299245-3926
